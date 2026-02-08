@@ -17,7 +17,7 @@ An interactive **Sales Dashboard built in Microsoft Excel** to analyze sales per
 Download `Excel Project Dataset Making Dashboard.xlsx` and explore the dashboard using filters.
 
 ## Dashboard Preview
-![Bike Sales Dashboard](Sales_Dashboard.png)
+![Bike Sales Dashboard](Sales Dashboard.png)
 
 ## Author
 Abdul Rafay
