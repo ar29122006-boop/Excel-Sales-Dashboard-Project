@@ -14,7 +14,7 @@ An interactive **Sales Dashboard built in Microsoft Excel** to analyze sales per
 - Excel formulas
 
 ## How to Use
-Download `Sales_Dashboard.xlsx` and explore the dashboard using filters.
+Download `Excel Project Dataset Making Dashboard.xlsx` and explore the dashboard using filters.
 
 ## Author
 Abdul Rafay
